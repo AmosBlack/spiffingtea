@@ -19,3 +19,12 @@ Some notable parts of the code include:
 - item_sel(), item_create(), and item_update() functions: These functions define the probability of item generation and create and update the position of items on the screen. They take arguments such as item arrays, position arrays, and item types to create and update items.
 - on_collision() function: Detects whether the character collides with an item on the screen and performs an action such as collecting the item or losing a life.
 - spiffy_meter() function: Handles the logic of a tea meter that decreases over time and gives the character an ability to jump when full.
+
+## Installation
+
+### Linux
+- From my website, download the executable file from the Projects Section
+- Open the zip and open the extracted folder in the terminal
+- Give the executable execution permissions
+- Run the executed file from the terminal by dragging the icon into the terminal
+- Enjoy
